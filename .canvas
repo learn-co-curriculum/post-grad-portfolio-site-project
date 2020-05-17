@@ -1,4 +1,6 @@
 ---
-:page_id: 3444
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/post-grad-portfolio-site-project
+:lessons:
+- :id: 3923
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/post-grad-portfolio-site-project
+  :type: page
