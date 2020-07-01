@@ -57,3 +57,4 @@ shortly after you'd rather use a different service or different name.
 [GitHub pages]: https://pages.github.com/
 [gh-pages]: https://www.npmjs.com/package/gh-pages
 [Google Firebase]: https://firebase.google.com/
+[GoDaddy]: https://godaddy.com
